@@ -24,9 +24,9 @@ Step 7: Save and run the application.
 
 Program to print the list of item.
 
-Developed by: HEMANTH BABU
+Developed by: Yokesh D
 
-Register Number : 212222220015
+Register Number : 212222220061
 
 ## ACTIVITY_MAIN.XML
 ```
